@@ -1,0 +1,9 @@
+# Data Handling & Numerics
+pandas
+numpy
+matplotlib
+seaborn
+requests
+ipywidgets
+jupyter
+xgboost
