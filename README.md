@@ -1,6 +1,6 @@
 forecasting-sale
 
-![One year Prediction chart](forecast_chart_2025-11-26_04-39-51.png)
+![One year Prediction chart](forecast_chart_2025-11-26_13-01-55.png)
 
 
 
