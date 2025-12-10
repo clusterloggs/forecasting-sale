@@ -6,3 +6,11 @@ env/
 *.pyd
 *.pyc
 .ipynb_checkpoints/
+venv/
+sim/
+env/
+**/__pycache__/
+*.dll
+*.pyd
+*.pyc
+.ipynb_checkpoints/
