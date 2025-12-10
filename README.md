@@ -58,5 +58,9 @@ Ensure you have the following installed on your system:
     pip install -r requirements.txt
     ```
 
+4. **Select the `venv` for kernel.**
+
+5. **Skip 2,3, and 4 if you're using jupyter environment**
+
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
