@@ -7,3 +7,6 @@ requests
 ipywidgets
 jupyter
 xgboost
+statsmodels
+sklearn
+openpyxl
