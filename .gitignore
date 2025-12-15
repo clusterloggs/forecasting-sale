@@ -14,3 +14,4 @@ env/
 *.pyd
 *.pyc
 .ipynb_checkpoints/
+~$dataset.xlsx

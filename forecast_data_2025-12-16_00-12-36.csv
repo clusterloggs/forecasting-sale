@@ -1,4 +1,4 @@
-Date,Total Sales,Sales_Billions,MoM_Pct_%,MoM_Abs,YoY_Growth_%,Forecast
+Date,Total Sales,Sales_Billions,MoM Pct (%),MoM_Abs,YoY_Growth_%,Forecast
 2021-01-01,2723737272.0,2.723737272,,,,
 2021-02-01,3172727172.0,3.172727172,16.48,448989900.0,,
 2021-03-01,3717272662.0,3.717272662,17.16,544545490.0,,
