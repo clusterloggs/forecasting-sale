@@ -1,6 +1,6 @@
 forecasting-sale
 
-![One year Prediction chart](forecast_chart_2025-12-09_15-41-11.png)
+![One year Prediction chart](forecast_chart_2025-12-16_00-12-36.png)
 
 
 
@@ -58,19 +58,17 @@ Ensure you have the following installed on your system:
     pip install -r requirements.txt
     ```
 
-    4. **Select the `venv` for kernel.**
+4. **Select the `venv` for kernel.**
 
 5. **Skip 2,3, and 4 if you're using jupyter environment**
 
-6. **Upon run the notebook succefully**
-
-    You will see some files in the project folder
+6. **Upon run the jupyter notebook succesfully, you will have some files save to the project folder**
 ```
-        - forecast_chart_{current datetime}.png               # Forecast chart
-        - forecast_data_{current datetime}.csv              # this include forecasted data value
-        - holt_model_{current datetime}.pkl                 # The model used for the simulation
-
+    - forecast_chart_{current datetime}.png             # Forecast chart
+    - forecast_data_{current datetime}.csv              # this include forecasted data value
+    - holt_model_{current datetime}.pkl                 # The model used for the simulation
 ```
+
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
